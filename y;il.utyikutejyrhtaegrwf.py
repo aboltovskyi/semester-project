@@ -1,6 +1,6 @@
 def calculator():
     try:
-        num1 = float(input("Введіть перше число: "))
+        i
 
         operation = input("Виберіть операцію (+, -, *, /): ")
 

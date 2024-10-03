@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3febbdee-c167-4376-abfd-83ac1ab22f7f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cw1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester project 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/y;il.utyikutejyrhtaegrwf.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semester project.py" beforeDir="false" afterPath="$PROJECT_DIR$/semester project.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.cw1.executor": "Run",
+    "Python.semester project 2.executor": "Run",
     "Python.semester project.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
